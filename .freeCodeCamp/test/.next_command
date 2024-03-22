@@ -210,3 +210,5 @@ echo -e '\nLines that they appear on:' >> kitty_info.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
+chmode +x translate.sh
+chmod +x translate.sh
