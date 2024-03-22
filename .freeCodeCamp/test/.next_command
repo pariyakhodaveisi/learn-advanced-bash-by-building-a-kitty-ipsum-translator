@@ -46,3 +46,5 @@ read NAME < name.txt
 echo $NAME
 echo Pari
 echo $NAME
+cat $NAME
+cat
