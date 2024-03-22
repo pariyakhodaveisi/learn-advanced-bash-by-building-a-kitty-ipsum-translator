@@ -49,3 +49,4 @@ echo $NAME
 cat $NAME
 cat
 cat name.txt
+cat < name.txt
