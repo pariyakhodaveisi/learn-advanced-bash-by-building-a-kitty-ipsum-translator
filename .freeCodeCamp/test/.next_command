@@ -27,3 +27,4 @@ __vsc_prompt_cmd_original
 echo hello bach > stdout.txt
 echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
+echo hello bash > stdout.txt
