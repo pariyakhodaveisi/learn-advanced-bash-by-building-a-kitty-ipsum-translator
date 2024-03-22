@@ -64,3 +64,4 @@ chmod +x script.sh
 echo Pari
 echo Pari
 echo Pari
+./script.sh < name.txt
