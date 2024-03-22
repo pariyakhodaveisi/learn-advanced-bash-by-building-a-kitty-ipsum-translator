@@ -40,3 +40,4 @@ echo
 echo NAME
 echo stdin
 echo $NAME
+echo $NAME > stdout.txt
