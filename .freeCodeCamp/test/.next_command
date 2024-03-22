@@ -59,3 +59,4 @@ echo Bo
 echo < name.txt
 echo $ < name.txt
 touch script.sh
+chmod +x script.sh
