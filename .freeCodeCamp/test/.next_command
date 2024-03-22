@@ -51,3 +51,11 @@ cat
 cat name.txt
 cat < name.txt
 echo Pari
+cat
+cat
+Pari
+echo Bo
+< name.txt
+echo < name.txt
+echo $ < name.txt
+touch script.sh
