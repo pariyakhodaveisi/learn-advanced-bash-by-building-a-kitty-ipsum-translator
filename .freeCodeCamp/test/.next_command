@@ -48,3 +48,4 @@ echo Pari
 echo $NAME
 cat $NAME
 cat
+cat name.txt
